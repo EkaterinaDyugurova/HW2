@@ -3,8 +3,8 @@ public class Main {
 
         int price = 1000;
         int rurbonus = 20;
-        int mili = price/rurbonus;
-        System.out.print(mili);
+        int miles = price / rurbonus;
+        System.out.print(miles);
     }
 }
 
